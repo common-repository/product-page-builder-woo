@@ -1,0 +1,9 @@
+.wcpb-meta-field {
+  margin: 20px 0;
+}
+.wcpb-meta-field label {
+  font-weight: bold;
+}
+.wcpb-meta-field label small {
+  font-weight: normal;
+}
